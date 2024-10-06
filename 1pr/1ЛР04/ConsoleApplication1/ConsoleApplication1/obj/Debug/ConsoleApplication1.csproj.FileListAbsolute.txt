@@ -1,0 +1,10 @@
+C:\Users\stud314\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\stud314\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\stud314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stud314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\stud314\AppData\Local\Temporary Projects\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты New\6104\Свиридов Кирилл\ЛР04\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты New\6104\Свиридов Кирилл\ЛР04\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты New\6104\Свиридов Кирилл\ЛР04\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты New\6104\Свиридов Кирилл\ЛР04\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+\\mscs-fs\data\314_user_data\!_С#_2022-2023\1 семестр. Отчеты New\6104\Свиридов Кирилл\ЛР04\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
